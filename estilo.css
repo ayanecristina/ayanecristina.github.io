@@ -1,0 +1,30 @@
+
+h1{ 
+    color: darkred;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+}
+
+
+body {
+    background-color: darkgray;
+}
+
+p {
+    color: rgb(27, 11, 11);
+    font-family: Arial;
+    font-size: 20px;
+}
+
+h3{
+    background-color: cadetblue;
+    padding: 20px;
+    border: 7px; color: gray solid;
+    margin:60px;
+    text-align: center;
+    font-family: arial;
+    font-size: larger;
+}
+
